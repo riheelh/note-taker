@@ -6,7 +6,7 @@
 ## Description  
 An application that can be used to write and save notes Running on Express JS backend.
 
-![Team Profile ScreenShot](./Assets/11-express-homework-demo-01.PNG)
+![Note Taker Page](./Assets/screenshot.PNG)
 
 ## Table of Contents
 
